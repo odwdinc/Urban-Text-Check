@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Urban Text Check</string>
+    <string name="Check">Spell</string>
+    <string name="Clear">Clear Results</string>
+    <color name="bacgroudtab">#AA8F9980</color>
+    <string name="Company">Is It Broken \n (www.Is-It-Broken.com)</string>
+    <string name="Dec">A fun and simple aspell.net spell check that provides definitions from  urbandictionary.com</string>
+    <string name="loding">Loding...</string>
+</resources>

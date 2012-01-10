@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:background="@drawable/background">
+    <TextView android:id="@+id/textView1" android:layout_height="wrap_content" android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" android:layout_marginTop="26dp" android:text="@string/app_name" android:typeface="sans" android:gravity="center"></TextView>
+    <TextView android:textAppearance="?android:attr/textAppearanceSmall" android:id="@+id/textView3" android:text="@string/Dec" android:layout_height="wrap_content" android:paddingTop="30dp" android:layout_width="wrap_content" android:gravity="center_horizontal" android:layout_margin="30dp" android:paddingLeft="10dp" android:layout_below="@+id/textView1" android:layout_centerHorizontal="true"></TextView>
+    <TextView android:textAppearance="?android:attr/textAppearanceLarge" android:id="@+id/textView4" android:text="@string/loding" android:layout_height="wrap_content" android:layout_width="wrap_content" android:layout_centerVertical="true" android:layout_centerHorizontal="true"></TextView>
+    <TextView android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/textView2" android:text="@string/Company" android:layout_height="wrap_content" android:layout_width="wrap_content" android:gravity="center_horizontal" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:layout_marginBottom="17dp"></TextView>
+    
+</RelativeLayout>
